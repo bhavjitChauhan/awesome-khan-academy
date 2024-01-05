@@ -14,6 +14,7 @@
 ## Processing.js Programs
 
 - [Memory Card Game](https://www.khanacademy.org/computer-programming/-/5648647542833152)
+- [Rodeo Stampede 3D](https://www.khanacademy.org/computer-programming/-/5218478237696000) - 3D runner game.
 - [Transcolors](https://www.khanacademy.org/computer-programming/-/2722008038) - Puzzle game.
 
 
