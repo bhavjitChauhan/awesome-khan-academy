@@ -21,7 +21,6 @@
 ## Webpages
 
 - [Minekhan](https://www.khanacademy.org/computer-programming/-/5647155001376768) - Minecraft clone.
-- [Winter Denouement](https://www.khanacademy.org/computer-programming/-/5759714531524608) - WebGL rendering of a landscape.
 
 
 ## Resources
