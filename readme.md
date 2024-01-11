@@ -29,6 +29,7 @@
 
 - [Imagenator](http://la94022.com/~blyon/Javascript/KAImage/) - Use any images in programs.
 - [KA Hearth](https://ka-hearth.learnerpages.com/) - Blog.
+- [Khan Academy Blog 2018](https://www.khanacademy.org/computer-programming/-/5994819705831424)
 - [The Khan Academy Extension](https://chromewebstore.google.com/detail/the-khan-academy-extensio/gniggljddhajnfbkjndcgnomkddfcial)
 - [willard.fun](https://willard.fun) - Search programs.
 
